@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:annienguyengu@gmail.com">📧 Email</a> |
-  <a href="https://www.linkedin.com/in/minh-thu-annie-nguyen">💼 LinkedIn</a> |
-  <a href="ADD-WEBSITE-LINK-HERE">🌐 Portfolio</a>
+  📧 <a href="mailto:annienguyengu@gmail.com"> Email</a> |
+  💼 <a href="https://www.linkedin.com/in/minh-thu-annie-nguyen"> LinkedIn</a> |
+  🌐 <a href="ADD-WEBSITE-LINK-HERE"> Portfolio</a>
 </p>
 
 ---
